@@ -1,3 +1,6 @@
+# https://atcoder.jp/contests/abs/tasks/abc081_b?lang=ja
+# Shift only
+
 import sys
 # 再帰回数上弦を100000回に設定
 sys.setrecursionlimit(100000)

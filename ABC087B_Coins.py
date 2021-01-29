@@ -1,3 +1,6 @@
+# https://atcoder.jp/contests/abc087/tasks/abc087_b
+# Coins
+
 # A, B, C, X = [int(input()) for i in range(4)]
 # count = 0
 #
