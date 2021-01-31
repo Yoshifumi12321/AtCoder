@@ -1,0 +1,10 @@
+S = input()
+list = S.split('eraser')
+print(list)
+list = ''.join(list).split('dreamer')
+print(list)
+list = ''.join(list).split('erase')
+print(list)
+list = ''.join(list).split('dream')
+
+print(list)
